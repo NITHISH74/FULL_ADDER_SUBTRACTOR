@@ -47,8 +47,8 @@ Write the detailed procedure here
 
 **FULL_ADDER**
 ```
-Developed by: JAVITH FARKHAN S
-RegisterNumber: 212221240017
+Developed by: Nithishwar S
+RegisterNumber: 212221230071
 
 module full_adder(a,b,cin,sum,carry);
 input a,b,cin;
