@@ -1,7 +1,7 @@
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
-
+## Implementation-of-Full-Adder-and-Full-subtractor-circuit
+### Exp. No: 04
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
